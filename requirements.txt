@@ -1,0 +1,15 @@
+pandas
+numpy
+scipy
+scikit-learn
+matplotlib
+flask
+flask-cors
+gunicorn
+notebook
+pytest
+python-box
+pyYAML
+tqdm
+ensure
+types-PyYAML
